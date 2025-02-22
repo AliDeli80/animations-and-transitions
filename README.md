@@ -2,7 +2,7 @@
 
 Welcome to my CSS Animations and Transitions practice repository! This project showcases a horse running through a desert landscape, demonstrating various CSS techniques for animations and transitions.  
 
-Horse Running in Desert(https://htmlpreview.github.io/?https://github.com/AliDeli80/animations-and-transitions/blob/master/index.html)
+[Horse Running in Desert](https://htmlpreview.github.io/?https://github.com/AliDeli80/animations-and-transitions/blob/master/index.html)
 
 ## Project Overview  
 
